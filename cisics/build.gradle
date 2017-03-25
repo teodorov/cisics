@@ -1,0 +1,3 @@
+dependencies {
+    compile group: 'fr.ensta-bretagne', name: 'plug-utils', version: '+'
+}
